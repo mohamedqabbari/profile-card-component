@@ -1,0 +1,12 @@
+{
+  "name": "profile-card-component",
+  "version": "1.0.0",
+  "description": "Profile Card Component From frontendmentor.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Qabbari",
+  "license": "ISC",
+  "dependencies": {}
+}
