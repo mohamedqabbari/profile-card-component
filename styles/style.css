@@ -12,6 +12,10 @@ html, body {
     height: 100%;
 }
 body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
     background-color: var(--main-background);
     overflow: hidden;
     position: relative;
@@ -30,8 +34,6 @@ body > img {
     z-index: 2;
     background-color: #FFFFFF;
     box-shadow: 0 50px 70px rgba(0, 0, 0, 0.2);
-    margin: 0 auto;
-    margin-top: 155px;
     width: 350px;
     height: 400px;
     border-radius: 15px;
